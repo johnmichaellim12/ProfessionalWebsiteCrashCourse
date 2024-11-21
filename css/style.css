@@ -259,7 +259,7 @@ img {
 }
 
 .footer .card {
-  margin: 20px 30px 30px 0;
+  margin: 20px 30px 50px 0;
 }
 
 .footer input[type="email"] {
@@ -477,7 +477,6 @@ img {
     margin-bottom: 10px;
     display: block;
     width: 100%;
-    gap: 20px;
   }
 
   .testimonials .testimonials-heading {
